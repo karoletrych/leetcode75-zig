@@ -1,4 +1,5 @@
 // Task 54/75  -  LeetCode 2300. Successful Pairs of Spells and Potions
+// https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
 //
 // Fill in the bodies. Keep the signatures exactly as they are: they are
 // what makes the generated C match LeetCode's C signature.

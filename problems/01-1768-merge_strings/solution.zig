@@ -1,4 +1,5 @@
 // Task 01/75  -  LeetCode 1768. Merge Strings Alternately
+// https://leetcode.com/problems/merge-strings-alternately/
 //
 // Fill in the bodies. Keep the signatures exactly as they are: they are
 // what makes the generated C match LeetCode's C signature.

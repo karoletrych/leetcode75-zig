@@ -1,4 +1,5 @@
 // Task 42/75  -  LeetCode 450. Delete Node in a BST
+// https://leetcode.com/problems/delete-node-in-a-bst/
 //
 // Fill in the bodies. Keep the signatures exactly as they are: they are
 // what makes the generated C match LeetCode's C signature.

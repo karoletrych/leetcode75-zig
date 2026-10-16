@@ -1,4 +1,5 @@
 // Task 26/75  -  LeetCode 394. Decode String
+// https://leetcode.com/problems/decode-string/
 //
 // Fill in the bodies. Keep the signatures exactly as they are: they are
 // what makes the generated C match LeetCode's C signature.

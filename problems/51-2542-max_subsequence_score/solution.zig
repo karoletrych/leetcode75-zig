@@ -1,4 +1,5 @@
 // Task 51/75  -  LeetCode 2542. Maximum Subsequence Score
+// https://leetcode.com/problems/maximum-subsequence-score/
 //
 // Fill in the bodies. Keep the signatures exactly as they are: they are
 // what makes the generated C match LeetCode's C signature.

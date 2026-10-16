@@ -1,4 +1,5 @@
 // Task 21/75  -  LeetCode 1207. Unique Number of Occurrences
+// https://leetcode.com/problems/unique-number-of-occurrences/
 //
 // Fill in the bodies. Keep the signatures exactly as they are: they are
 // what makes the generated C match LeetCode's C signature.

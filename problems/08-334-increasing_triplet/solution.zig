@@ -1,4 +1,5 @@
 // Task 08/75  -  LeetCode 334. Increasing Triplet Subsequence
+// https://leetcode.com/problems/increasing-triplet-subsequence/
 //
 // Fill in the bodies. Keep the signatures exactly as they are: they are
 // what makes the generated C match LeetCode's C signature.

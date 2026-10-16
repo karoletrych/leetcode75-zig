@@ -1,4 +1,5 @@
 // Task 02/75  -  LeetCode 1071. Greatest Common Divisor of Strings
+// https://leetcode.com/problems/greatest-common-divisor-of-strings/
 //
 // Fill in the bodies. Keep the signatures exactly as they are: they are
 // what makes the generated C match LeetCode's C signature.

@@ -1,4 +1,5 @@
 // Task 71/75  -  LeetCode 1268. Search Suggestions System
+// https://leetcode.com/problems/search-suggestions-system/
 //
 // Fill in the bodies. Keep the signatures exactly as they are: they are
 // what makes the generated C match LeetCode's C signature.

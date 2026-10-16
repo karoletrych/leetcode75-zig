@@ -1,4 +1,5 @@
 // Task 04/75  -  LeetCode 605. Can Place Flowers
+// https://leetcode.com/problems/can-place-flowers/
 //
 // Fill in the bodies. Keep the signatures exactly as they are: they are
 // what makes the generated C match LeetCode's C signature.

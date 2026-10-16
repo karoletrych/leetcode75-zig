@@ -1,4 +1,5 @@
 // Task 43/75  -  LeetCode 841. Keys and Rooms
+// https://leetcode.com/problems/keys-and-rooms/
 //
 // Fill in the bodies. Keep the signatures exactly as they are: they are
 // what makes the generated C match LeetCode's C signature.

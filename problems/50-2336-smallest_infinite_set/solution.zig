@@ -1,4 +1,5 @@
 // Task 50/75  -  LeetCode 2336. Smallest Number in Infinite Set
+// https://leetcode.com/problems/smallest-number-in-infinite-set/
 //
 // Fill in the bodies. Keep the signatures exactly as they are: they are
 // what makes the generated C match LeetCode's C signature.

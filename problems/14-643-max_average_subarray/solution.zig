@@ -1,4 +1,5 @@
 // Task 14/75  -  LeetCode 643. Maximum Average Subarray I
+// https://leetcode.com/problems/maximum-average-subarray-i/
 //
 // Fill in the bodies. Keep the signatures exactly as they are: they are
 // what makes the generated C match LeetCode's C signature.

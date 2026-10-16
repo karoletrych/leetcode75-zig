@@ -1,4 +1,5 @@
 // Task 74/75  -  LeetCode 739. Daily Temperatures
+// https://leetcode.com/problems/daily-temperatures/
 //
 // Fill in the bodies. Keep the signatures exactly as they are: they are
 // what makes the generated C match LeetCode's C signature.

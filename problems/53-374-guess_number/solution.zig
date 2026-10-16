@@ -1,4 +1,5 @@
 // Task 53/75  -  LeetCode 374. Guess Number Higher or Lower
+// https://leetcode.com/problems/guess-number-higher-or-lower/
 //
 // Fill in the bodies. Keep the signatures exactly as they are: they are
 // what makes the generated C match LeetCode's C signature.
