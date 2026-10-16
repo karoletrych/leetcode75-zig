@@ -1,9 +1,9 @@
 # LeetCode 75, in Zig
 
-The 75 problems of LeetCode's *LeetCode 75* study plan as Zig stubs, numbered
-in study-plan order: `problems/01-1768-merge_strings`, ... **No solutions, no
-hints** - each file is just the signature LeetCode's C judge expects, with an
-empty body for you to fill in.
+The 75 problems of LeetCode's *LeetCode 75* study plan, numbered in study-plan
+order: `problems/01-1768-merge_strings`, ... Every task starts as a stub - just
+the signature LeetCode's C judge expects, with an empty body. They get filled in
+as I work through the plan.
 
 ## Why Zig?
 
