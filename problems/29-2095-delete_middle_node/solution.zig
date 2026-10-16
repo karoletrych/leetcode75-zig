@@ -1,9 +1,5 @@
-// Task 29/75  -  LeetCode 2095. Delete the Middle Node of a Linked List
+// 29/75 - LeetCode 2095. Delete the Middle Node of a Linked List
 // https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
-//
-// Fill in the bodies. Keep the signatures exactly as they are: they are
-// what makes the generated C match LeetCode's C signature.
-// (Deliberately no hints here - read the statement on LeetCode.)
 
 const std = @import("std");
 

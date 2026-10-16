@@ -1,9 +1,5 @@
-// Task 34/75  -  LeetCode 872. Leaf-Similar Trees
+// 34/75 - LeetCode 872. Leaf-Similar Trees
 // https://leetcode.com/problems/leaf-similar-trees/
-//
-// Fill in the bodies. Keep the signatures exactly as they are: they are
-// what makes the generated C match LeetCode's C signature.
-// (Deliberately no hints here - read the statement on LeetCode.)
 
 const std = @import("std");
 

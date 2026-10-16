@@ -1,9 +1,5 @@
-// Task 09/75  -  LeetCode 443. String Compression
+// 09/75 - LeetCode 443. String Compression
 // https://leetcode.com/problems/string-compression/
-//
-// Fill in the bodies. Keep the signatures exactly as they are: they are
-// what makes the generated C match LeetCode's C signature.
-// (Deliberately no hints here - read the statement on LeetCode.)
 
 const std = @import("std");
 

@@ -1,9 +1,5 @@
-// Task 73/75  -  LeetCode 452. Minimum Number of Arrows to Burst Balloons
+// 73/75 - LeetCode 452. Minimum Number of Arrows to Burst Balloons
 // https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
-//
-// Fill in the bodies. Keep the signatures exactly as they are: they are
-// what makes the generated C match LeetCode's C signature.
-// (Deliberately no hints here - read the statement on LeetCode.)
 
 const std = @import("std");
 

@@ -1,9 +1,5 @@
-// Task 23/75  -  LeetCode 2352. Equal Row and Column Pairs
+// 23/75 - LeetCode 2352. Equal Row and Column Pairs
 // https://leetcode.com/problems/equal-row-and-column-pairs/
-//
-// Fill in the bodies. Keep the signatures exactly as they are: they are
-// what makes the generated C match LeetCode's C signature.
-// (Deliberately no hints here - read the statement on LeetCode.)
 
 const std = @import("std");
 

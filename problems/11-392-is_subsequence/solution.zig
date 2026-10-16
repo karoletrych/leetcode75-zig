@@ -1,9 +1,5 @@
-// Task 11/75  -  LeetCode 392. Is Subsequence
+// 11/75 - LeetCode 392. Is Subsequence
 // https://leetcode.com/problems/is-subsequence/
-//
-// Fill in the bodies. Keep the signatures exactly as they are: they are
-// what makes the generated C match LeetCode's C signature.
-// (Deliberately no hints here - read the statement on LeetCode.)
 
 const std = @import("std");
 

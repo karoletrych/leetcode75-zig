@@ -1,9 +1,5 @@
-// Task 44/75  -  LeetCode 547. Number of Provinces
+// 44/75 - LeetCode 547. Number of Provinces
 // https://leetcode.com/problems/number-of-provinces/
-//
-// Fill in the bodies. Keep the signatures exactly as they are: they are
-// what makes the generated C match LeetCode's C signature.
-// (Deliberately no hints here - read the statement on LeetCode.)
 
 const std = @import("std");
 
