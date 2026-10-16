@@ -17,7 +17,8 @@ translator: you write and test real Zig, then submit the generated C.
 cd problems\12-11-max_area
 
 # 1. write real Zig; prove it to yourself with Zig's own test runner
-zig test solution.zig
+#    (-lc is needed whenever the solution allocates: std.heap.c_allocator IS malloc)
+zig test solution.zig -lc
 
 # 2. translate it to C
 zig2c solution.zig -o leetcode.c
@@ -40,6 +41,12 @@ node tools\verify.js --all        # only re-checks what changed
 
 ## Notes
 
+- **Allocation.** C can't return a variable-length array by value, so any task
+  that returns a string or an array (24 of the 75) must return a `malloc`'d
+  pointer, and LeetCode's harness frees it. In Zig that is explicit:
+  `allocator.alloc(...)` with `const allocator = std.heap.c_allocator;`, which
+  lowers to `malloc`/`free`. The other 45 tasks either return a scalar or mutate
+  in place, so they need no allocation.
 - `zig2c` emits readable C with your names preserved, not compiler IR.
 - `ListNode` / `TreeNode` / `Node` are provided by LeetCode: keep the exact
   fields shown in the stub.
