@@ -1,0 +1,8 @@
+# build artifacts
+test
+test.exe
+*.pdb
+*.tmp0
+.tools/
+.zig-cache/
+problems/*/leetcode.c
